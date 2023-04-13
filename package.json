@@ -1,6 +1,6 @@
 {
   "name": "frontend-ecommerce_nodejsReact",
-  "homepage": "https://happyecommerce.netlify.app/",
+  "homepage": "https://happyreactstore.netlify.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
